@@ -65,8 +65,8 @@ footer {
     filter: brightness(80%);
 }
 
-/* Media Query: iPhone (Vertical) */
-@media screen and (max-width: 376px) {
+/* Media Query: Large Smartphone */
+@media screen and (max-width:600px) {
     .logo-container {
         width: 95vw;
     }
